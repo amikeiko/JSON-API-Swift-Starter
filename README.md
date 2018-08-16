@@ -1,1 +1,1 @@
-# JSON API Swift Starter
+# JSON API Swift Starter Make School
